@@ -2,6 +2,3 @@
 2. Ajoutez un fichier nommé « feature1.txt » et ajoutez-y du contenu.
 3. Validez les changements avec un message de commit approprié.
 4. Renommer la branche principale en feature1.
-5. Créez une autre branche appelée feature2 et basculez dessus.
-6. Ajoutez un fichier nommé « feature2.txt », ajoutez du contenu, et validez les changements.
-7. Utilisez une commande pour voir les branches créées et sur laquelle vous vous trouvez
