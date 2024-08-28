@@ -1,0 +1,8 @@
+8. Retournez sur la branche feature1 et fusionnez la branche feature2 avec la branche
+feature1
+9. Gérez un conflit de fusion :
+● Modifiez le fichier « feature1.txt » sur la branche feature1.
+● Modifiez également le fichier « feature1.txt » sur la branche feature2.
+● Tentez de fusionner feature2 avec la branche feature1 et résolvez les conflits avec le
+message de commit suivant “Correction conflits”..
+10. Vérifiez les fusions en visualisant l'historique des commits avec les branches fusionnées
